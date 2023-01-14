@@ -1,3 +1,3 @@
-blog.vikifish.cn
+https://blog.vikifish.com
 
 comments
